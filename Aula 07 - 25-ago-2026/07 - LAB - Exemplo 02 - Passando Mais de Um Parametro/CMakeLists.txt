@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 4.3)
+project(07___LAB___Exemplo_02___Passando_Mais_de_Um_Parametro C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(07___LAB___Exemplo_02___Passando_Mais_de_Um_Parametro main.c)
